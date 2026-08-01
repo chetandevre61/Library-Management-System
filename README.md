@@ -1,13 +1,24 @@
-README.md
-index.html
-login.html
-dashboard.html
-books.html
-students.html
 
-css/
-js/
-images/
-database/
-# Library-Management-System
-A Library Management System is a web-based application developed to simplify the management of library operations. It allows librarians to maintain book records, manage student information, issue and return books, and search the library catalog efficiently.
+# Library Management System
+
+A Library Management System built using HTML, CSS, JavaScript and SQL.
+
+## Features
+
+- Admin Login
+- Add Books
+- Search Books
+- Issue Books
+- Return Books
+- Student Management
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+## Author
+
+Chetan Devre
